@@ -17,6 +17,9 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-2xl bg-primary flex items-center justify-center">
+
+              {/*Logo Placement is here*/}
+
               <Heart className="w-5 h-5 text-primary-foreground fill-primary-foreground" />
             </div>
             <span className="font-display font-bold text-xl text-foreground">
